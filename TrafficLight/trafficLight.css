@@ -1,0 +1,40 @@
+
+.traffic-light-container {
+    padding: 20px;
+    background-color: #86d2f2;
+}
+
+.traffic-light-heading {
+    color: #1f1d41;
+    font-family: "Roboto";
+    font-size: 46px;
+    font-weight: bold;
+}
+
+.button {
+    background-color: #1f1d41;
+    color: #ffffff;
+    border-radius: 10px;
+    font-family: "Roboto";
+    width: 70px;
+    height: 40px;
+    border-width: 0;
+    margin-top: 45px;
+}
+
+.traffic-light {
+    height: 300px;
+    width: 100px;
+    margin-left: 30px;
+    padding: 20px;
+    background-color: #1f1d41;
+    border-radius: 40px;
+}
+
+.bulb {
+    background-color: #4b5069;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    margin: 25px 5px 25px 5px;
+}
